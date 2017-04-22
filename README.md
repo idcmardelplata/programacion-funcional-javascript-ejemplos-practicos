@@ -22,7 +22,7 @@ Ej:
    const incrementar = (x) => x + 1
    const suma = (x,y) => x + y
 ```
-[descargar ejemplo](https://github.com/idcmardelplata/programacion-funcional-javascript-ejemplos-practicos/ejemplos/aridad.js)
+[descargar ejemplo](https://github.com/idcmardelplata/programacion-funcional-javascript-ejemplos-practicos/blob/master/ejemplos/aridad.js)
 
 La función suma se dice que es de **aridad** 2 puesto que acepta 2 argumentos, y la función incrementar es de aridad 1 puesto que solamente
 tiene un argumento, si la funcion tomara `n` argumentos, significaria que seria de aridad `n`.
