@@ -1,0 +1,38 @@
+{
+  "name": "javascript-funcional-ejemplos",
+  "version": "0.0.1",
+  "description": "Una coleccion de ejemplos sobre programación funcional en javavascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/idcmardelplata/programacion-funcional-javascript-ejemplos-practicos.git"
+  },
+  "keywords": [
+    "programacion",
+    "funcional",
+    "funcional",
+    "javascript",
+    "FP",
+    "javascript",
+    "funcional",
+    "paradigmas",
+    "de",
+    "programación",
+    "ejemplos",
+    "funcionales",
+    "ejemplos"
+  ],
+  "author": "Martin Hernan Algañaraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idcmardelplata/programacion-funcional-javascript-ejemplos-practicos/issues"
+  },
+  "homepage": "https://github.com/idcmardelplata/programacion-funcional-javascript-ejemplos-practicos#readme",
+  "dependencies": {
+    "ramda": "^0.23.0",
+    "ramda-fantasy": "^0.8.0"
+  }
+}
